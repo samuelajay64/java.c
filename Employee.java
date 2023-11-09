@@ -8,7 +8,7 @@ class Empolyee
 		String job="analyst";
 		int dept=30;
 		int projects=3;
-		long mobilenumber=9876543210l;
+		long mobileumber=9876543210l;
 		String location="ongole";
 		System.out.println(name);
 		System.out.println(id);

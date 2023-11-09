@@ -1,0 +1,11 @@
+class TotalMarks
+{
+	public static void main(String[] args)
+	{
+		int t=85,h=78,e=95,s=89,b=87,o=82;
+		int res1=t+h+e+s+b+s;
+		int res2=res1/6;
+		System.out.println(res1);
+		System.out.println(res2);
+	}
+}

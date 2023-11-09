@@ -1,0 +1,9 @@
+class Cond3
+{
+	public static void main(String[] args)
+	{
+		int a=33;
+		String res=a<=40&&a>=30 ?"is present":"is not present";
+		System.out.println(a+res+"in the given range");
+	}
+}

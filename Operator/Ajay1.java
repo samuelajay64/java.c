@@ -1,0 +1,11 @@
+class Cont1
+{
+	public static void main(String[] args)
+	{
+		int a=55;
+		if(a%2>=0&&a>48)
+		{
+			System.out.println(a+ "given number is positive and grater than 48");
+		}
+	}
+}
