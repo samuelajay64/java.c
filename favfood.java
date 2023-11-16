@@ -1,4 +1,4 @@
-class FavFood
+   class FavFood
 {
 	public static void main(String[] args)
 	{
